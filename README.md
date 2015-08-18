@@ -27,5 +27,5 @@ You should create one R script called run_analysis.R that does the following.
 4. Uses descriptive activity names to name the activities in the data set
 5. Update the activity names in y_data
 6. Appropriately labels the data set with descriptive variable names.
-7. From the data set in step , creates a second,independent tidy data set with the average of each variable for each activity and each subject. 
+7. From the data set in the previous step, creates a second,independent tidy data set with the average of each variable for each activity and each subject. 
 8. Write the tidydata to "tidydata.txt" using the write.table function.
