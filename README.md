@@ -24,9 +24,11 @@ You should create one R script called run_analysis.R that does the following.
 1. Merges the training and the test sets to create one data set using the rbind function
 
 2.
+
 + Extract the variables with the string "mean" & "std" from the features.txt
 + Keep only the required mean and std columns of the merged data
-3. 
+3.
+
 + Uses descriptive activity names to name the activities in the data set
 + Update the activity names in y_data
 4. Appropriately labels the data set with descriptive variable names.
